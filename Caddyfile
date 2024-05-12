@@ -1,6 +1,0 @@
-shell.test.local {
-	reverse_proxy localhost:5173
-}
-app1.test.local {
-	reverse_proxy localhost:5174
-}
